@@ -1,0 +1,10 @@
+[project]
+name = "boats-and-streams"
+version = "0.1.0"
+description = "Solve and simulate boats and streams problems exactly, and show the swapped-speeds trap"
+license = {text = "MIT"}
+requires-python = ">=3.10"
+dependencies = []
+
+[tool.setuptools.packages.find]
+where = ["src"]
