@@ -1,4 +1,6 @@
-# boats-and-streams
+# ROWAN: River, Oars, Water And Numbers
+
+Formerly `boats-and-streams`.
 
 Solve boats and streams problems exactly, and see the classic trap where swapping the two speeds gives a wrong answer that still "checks out".
 
