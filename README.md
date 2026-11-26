@@ -1,4 +1,4 @@
-# ROWAN: River, Oars, Water And Numbers
+# PALINURUS: named after Aeneas's helmsman, who steered a ship through wind and current
 
 Formerly `boats-and-streams`.
 
